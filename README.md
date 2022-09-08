@@ -28,7 +28,7 @@ Supported currencies (ISO 4217 currency codes):
 #### Installation:
 
 ```
-composer require jurchiks/numbers2words
+composer require insisoft/numbers2words
 ```
 
 #### Usage:
